@@ -12,6 +12,6 @@
     "name": "typicode"
   },
   "picture": [
-    {"id": 1, "url": "https://github.com/weisini/demo/blob/master/picture/1.png"}
+    {"id": 1, "url": "https://raw.githubusercontent.com/weisini/demo/master/picture/1.png"}
   ]
 }
