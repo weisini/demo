@@ -44,11 +44,11 @@
  {"id": 15, "title": "炖羊肉时，最“忌讳”的香料是它，会使羊肉变味，别再放错了", "pics": ["http://bjnewsrec-cv.ws.126.net/three4952c9b4fdbj00q5ec0o001qc000go00cig.jpg"], "lookCount":0,
      "from":"异乡云", "type": 3, "isHot": false, "isSpecial": false, "isAd": false, "isTop": false, "isLocal": true, "tag": "广安"},
 {"id": 16, "title": "爷爷告诫我：酒桌上有这两个动作的人，一般城府很深，别深交", "pics": ["http://bjnewsrec-cv.ws.126.net/three4952c9b4fdbj00q5ec0o001qc000go00cig.jpg"], "lookCount":0,
-     "from":"微文化", "type": 3, "isHot": false, "isSpecial": false, "isAd": false, "isTop": false, "isLocal": true, "tag": "知否"},
+     "from":"微文化", "type": 3, "isHot": false, "isSpecial": false, "isAd": false, "isTop": false, "isLocal": false, "tag": "知否"},
 {"id": 17, "title": "新服开启 快来迎战", "pics": ["https://raw.githubusercontent.com/weisini/demo/master/picture/ad_demo.jpg"], "lookCount":0,
      "from":"九州劫", "type": 4, "isHot": false, "isSpecial": false, "isAd": true, "isTop": false, "isLocal": false, "tag": "广告"},
 {"id": 18, "title": "中国为什么不用“武力”统一台湾 看完你就明白了", "pics": ["http://videoimg.ws.126.net/cover/20200208/BNC5Vsqvx_cover.jpg" ], "lookCount":348,
-     "from":"移动风暴", "type": 3, "isHot": false, "isSpecial": true, "isAd": false, "isTop": false, "isLocal": false, "tag": "专题"}
+     "from":"移动风暴", "type": 3, "isHot": false, "isSpecial": true, "isAd": false, "isTop": false, "isLocal": false}
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
